@@ -7,7 +7,7 @@ int main() {
 	setlocale(LC_ALL, "RU");
 	srand(time(NULL));
 	long long size = 0;
-	cout << "Ñêîëüêî âûäåëèòü ïàìÿòè?: ";
+	cout << "Ð¡ÐºÐ¾Ð»ÑŒÐºÐ¾ Ð¸Ð½Ñ‚Ð¾Ð² Ð²Ñ‹Ð´ÐµÐ»Ð¸Ñ‚ÑŒ?: ";
 	cin >> size;
 
 	int* pntr = new int[size];
