@@ -3,7 +3,7 @@
 
 using namespace std;
 
-template <typename ki>
+template <typename ki> // Обьявление переменной для шаблонной функции
 void Foo(ki &x, ki &y) {
 	ki g = x;
 	x = y;
