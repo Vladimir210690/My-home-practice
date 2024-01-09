@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void Swap(int*pa, int*pb) {
+void Swap(int*pa, int*pb) { // Функция меняет местами значения переменных
 	int c = *pa;
 	*pa = *pb;
 	*pb = c;
