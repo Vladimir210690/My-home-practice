@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class People {
+class People { // Создаем класс для таблицы
 public:
 	int age;
 	int weight;
