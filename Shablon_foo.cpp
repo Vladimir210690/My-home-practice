@@ -25,5 +25,6 @@ int main() {
 	Foo(c, d);
 	cout << a << "\t" << b << endl;
 	cout << c << "\t" << d << endl;
+
 	return 0;
 }
