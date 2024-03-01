@@ -1,6 +1,6 @@
 #include <iostream>
 #include "Header.h"
-
+// Тренировка
 using namespace std;
 
 int main() {
