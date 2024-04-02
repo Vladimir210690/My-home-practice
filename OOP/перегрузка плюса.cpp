@@ -26,9 +26,6 @@ public:
 		time.down = this->down + other.down;
 		return time;
 	}
-	void output() {
-		cout << up << " " << down << endl;
-	}
 	int get_up() {
 		return up;
 	}
